@@ -1,0 +1,125 @@
+{"images":[
+    {
+        "src":"./public/images/Canon_EOS_5Ds.jpg",
+        "id":1,
+        "key":1,
+        "description":"Canon_EOS_5Ds Black Camera",
+        "rating":"3",
+        "price":"7250",
+        "emi":"350",
+        "date":"12334556"
+    },
+
+    {
+        "src":"./public/images/canon_es_slr.jpeg",
+        "id":2,
+        "key":2,
+        "description":"Canon_Es_SLR_50S Black Camera",
+        "rating":"2",
+        "price":"7560",
+        "emi":"360",
+        "date":"12354536"
+    },
+    {
+        "src":"./public/images/Canon_power_301.jpg",
+        "id":3,
+        "key":3,
+        "description":"Canon Powershot_8X Red Camera",
+        "rating":"4",
+        "price":"7490",
+        "emi":"357",
+        "date":"12324586"
+    },
+
+    {
+        "src":"./public/images/canon_powershot_170_.jpg",
+        "id":4,
+        "key":4,
+        "description":"Canon Powershot_170S Red Camera",
+        "rating":"5",
+        "price":"6500",
+        "emi":"372",
+        "date":"22334356"
+    },
+    {
+        "src":"./public/images/htc_m8.jpeg",
+        "id":5,
+        "key":5,
+        "description":"HTC Mobile M8",
+        "rating":"5",
+        "price":"7200",
+        "emi":"327",
+        "date":"11338556"
+    },
+    {
+        "src":"./public/images/lava_x5.jpg",
+        "id":6,
+        "key":6,
+        "description":"Lava Mobile(X5)",
+        "rating":"4",
+        "price":"7300",
+        "emi":"317",
+        "date":"12334256"
+    },
+    {
+        "src":"./public/images/lg_b10.jpg",
+        "id":7,
+        "key":7,
+        "description":"LG Mobile-B10",
+        "rating":"5",
+        "price":"7400",
+        "emi":"227",
+        "date":"12234536"
+    },
+    {
+        "src":"./public/images/samsung_neo.jpg",
+        "id":8,
+        "key":8,
+        "description":"Samsung Mobile Neo 9060S",
+        "rating":"5",
+        "price":"7220",
+        "emi":"345",
+        "date":"12134556"
+    },
+    {
+        "src":"./public/images/levis_xl.jpeg",
+        "id":9,
+        "key":9,
+        "description":"Levis Shirt XL",
+        "rating":"5",
+        "price":"799",
+        "emi":"100",
+        "date":"12339556"
+    },
+    {
+        "src":"./public/images/monte_s.jpeg",
+        "id":10,
+        "key":10,
+        "description":"Monte Carlo Small Shirt",
+        "rating":"3",
+        "price":"999",
+        "emi":"140",
+        "date":"12334056"
+    },
+    {
+        "src":"./public/images/max_l.jpeg",
+        "id":11,
+        "key":11,
+        "description":"Max Large Shirt",
+        "rating":"4",
+        "price":"899",
+        "emi":"120",
+        "date":"12434554"
+    },
+    {
+        "src":"./public/images/Pendrive_sandisk(2 GB).jpeg",
+        "id":12,
+        "key":12,
+        "description":"Pen drive_sandisk 2 GB",
+        "rating":"3",
+        "price":"502",
+        "emi":"30",
+        "date":"154342664"
+    }
+]
+}
