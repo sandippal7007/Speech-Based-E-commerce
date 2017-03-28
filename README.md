@@ -29,3 +29,4 @@ Steps to run project:
 If you don't want the project to run in HTTPS, ignore step 3 and 5. You can directly run localhost:8080
 
 P.s: Voice recognition will be efficient if HTTPS is used.
+
